@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>react-native-image-crop-picker</name>
-	<comment>Project react-native-image-crop-picker created by Buildship.</comment>
+	<name>rn-image-crop-picker</name>
+	<comment>Project rn-image-crop-picker created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>

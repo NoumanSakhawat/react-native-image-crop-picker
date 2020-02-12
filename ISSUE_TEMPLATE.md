@@ -1,10 +1,12 @@
 ### Version
-Tell us which versions you are using: 
 
-- react-native-image-crop-picker v0.?.?
+Tell us which versions you are using:
+
+- rn-image-crop-picker v0.?.?
 - react-native v0.?.?
 
 ### Platform
+
 Tell us to which platform this issue is related
 
 - iOS
@@ -12,11 +14,7 @@ Tell us to which platform this issue is related
 
 ### Expected behaviour
 
-
-
 ### Actual behaviour
-
-
 
 ### Steps to reproduce
 
@@ -30,5 +28,5 @@ Tell us to which platform this issue is related
 
 // stacktrace or any other useful debug info
 
-Love react-native-image-crop-picker? Please consider supporting our collective:
-👉  https://opencollective.com/react-native-image-crop-picker/donate
+Love rn-image-crop-picker? Please consider supporting our collective:
+👉 https://opencollective.com/rn-image-crop-picker/donate
