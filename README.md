@@ -18,6 +18,10 @@ iOS/Android image picker with support for camera, video, configurable compressio
 
 If you are using react-native >= 0.60 use react-native-image-crop-picker version >= 0.25.0. Otherwise use version < 0.25.0.
 
+##INSTALLATION
+
+yarn add react-native-image-crop-picker
+
 ## Usage
 
 Import library
