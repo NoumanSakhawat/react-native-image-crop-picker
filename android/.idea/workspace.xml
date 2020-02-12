@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abdd8438-be33-4e23-9ac3-4db993efa30e" name="Default Changelist" comment="" />
+    <list default="true" id="abdd8438-be33-4e23-9ac3-4db993efa30e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,8 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -20,189 +24,20 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-              <folding>
-                <element signature="e#4141#4323#0" />
-                <element signature="e#4329#4522#0" />
-                <element signature="e#6727#6990#0" />
-                <element signature="e#6823#6949#1" />
-                <element signature="e#6884#6939#1" />
-                <element signature="e#6996#8008#0" />
-                <element signature="e#7186#7298#1" />
-                <element signature="class#7419:8000" />
-                <element signature="method#call#0;class#7419:8000" />
-                <element signature="e#7513#7780#0" />
-                <element signature="e#7802#7946#0" />
-                <element signature="e#8014#9473#0" />
-                <element signature="e#8141#8259#1" />
-                <element signature="e#8390#8502#1" />
-                <element signature="class#8623:9465" />
-                <element signature="method#call#0;class#8623:9465" />
-                <element signature="e#8734#9245#0" />
-                <element signature="e#8894#8985#1" />
-                <element signature="e#9267#9411#0" />
-                <element signature="e#9479#11268#0" />
-                <element signature="e#9747#9970#1" />
-                <element signature="e#9893#9960#1" />
-                <element signature="e#10015#11075#1" />
-                <element signature="class#10160:11042" />
-                <element signature="method#onRequestPermissionsResult#0;class#10160:11042" />
-                <element signature="e#10371#10976#1" />
-                <element signature="e#10435#10722#1" />
-                <element signature="e#10518#10696#1" />
-                <element signature="e#10752#10824#0" />
-                <element signature="e#10845#10954#0" />
-                <element signature="e#11124#11164#0" />
-                <element signature="e#11185#11262#0" />
-                <element signature="e#11274#12115#0" />
-                <element signature="e#11453#11565#1" />
-                <element signature="e#11609#11719#1" />
-                <element signature="class#11939:12107" />
-                <element signature="method#call#0;class#11939:12107" />
-                <element signature="e#12121#13756#0" />
-                <element signature="e#12183#13646#0" />
-                <element signature="e#12283#12402#1" />
-                <element signature="e#12408#12527#1" />
-                <element signature="e#12654#12729#1" />
-                <element signature="e#12735#12947#1" />
-                <element signature="e#13066#13333#1" />
-                <element signature="e#13419#13553#1" />
-                <element signature="e#13667#13749#0" />
-                <element signature="e#13762#14844#0" />
-                <element signature="e#13829#14735#0" />
-                <element signature="e#13967#14032#1" />
-                <element signature="e#14069#14134#1" />
-                <element signature="e#14140#14338#1" />
-                <element signature="e#14756#14838#0" />
-                <element signature="e#14850#15524#0" />
-                <element signature="e#15029#15141#1" />
-                <element signature="class#15348:15516" />
-                <element signature="method#call#0;class#15348:15516" />
-                <element signature="class#16088:16260" />
-                <element signature="method#call#0;class#16088:16260" />
-                <element signature="e#16274#17059#0" />
-                <element signature="e#16386#16472#0" />
-                <element signature="e#16505#16574#0" />
-                <element signature="e#16742#16886#0" />
-                <element signature="e#16809#16876#1" />
-                <element signature="e#16909#16953#0" />
-                <element signature="e#17065#17698#0" />
-                <element signature="e#17253#17377#1" />
-                <element signature="e#17383#17667#1" />
-                <element signature="e#17533#17657#1" />
-                <element signature="e#17704#18210#0" />
-                <element signature="e#17910#17984#1" />
-                <element signature="e#18082#18162#1" />
-                <element signature="e#18216#18798#0" />
-                <element signature="e#18426#18553#1" />
-                <element signature="e#18651#18726#1" />
-                <element signature="e#18804#19153#0" />
-                <element signature="e#19052#19126#1" />
-                <element signature="e#19159#21107#0" />
-                <element signature="class#19426:21093" />
-                <element signature="method#run#0;class#19426:21093" />
-                <element signature="class#19601:20743" />
-                <element signature="method#invoke#0;class#19601:20743" />
-                <element signature="e#19791#20570#0" />
-                <element signature="e#20591#20703#0" />
-                <element signature="class#20749:21066" />
-                <element signature="method#invoke#0;class#20749:21066" />
-                <element signature="e#21113#21660#0" />
-                <element signature="e#21299#21377#1" />
-                <element signature="e#21383#21632#1" />
-                <element signature="e#21411#21530#1" />
-                <element signature="e#21536#21622#1" />
-                <element signature="e#21666#22190#0" />
-                <element signature="e#22089#22159#1" />
-                <element signature="e#22196#23761#0" />
-                <element signature="e#22407#22481#1" />
-                <element signature="e#22553#22646#0" />
-                <element signature="e#23385#23479#1" />
-                <element signature="e#23506#23732#1" />
-                <element signature="e#23524#23647#0" />
-                <element signature="e#23669#23722#0" />
-                <element signature="e#23767#24702#0" />
-                <element signature="e#24203#24540#1" />
-                <element signature="e#24217#24448#0" />
-                <element signature="e#24546#24696#1" />
-                <element signature="e#24708#26126#0" />
-                <element signature="e#25265#25334#1" />
-                <element signature="e#25370#25708#1" />
-                <element signature="e#25750#25806#1" />
-                <element signature="e#26027#26088#1" />
-                <element signature="e#26132#27913#0" />
-                <element signature="e#26300#26402#1" />
-                <element signature="e#26446#27907#1" />
-                <element signature="e#26474#27271#1" />
-                <element signature="e#26553#27124#0" />
-                <element signature="e#26644#26800#1" />
-                <element signature="e#26806#27106#1" />
-                <element signature="e#26961#27084#1" />
-                <element signature="e#27146#27256#0" />
-                <element signature="e#27277#27897#1" />
-                <element signature="e#27355#27504#1" />
-                <element signature="e#27536#27605#1" />
-                <element signature="e#27611#27883#1" />
-                <element signature="e#27637#27725#0" />
-                <element signature="e#27747#27865#0" />
-                <element signature="e#29250#30550#0" />
-                <element signature="e#29389#30436#1" />
-                <element signature="e#29478#30309#1" />
-                <element signature="e#29500#30163#0" />
-                <element signature="e#29551#29685#1" />
-                <element signature="e#29811#30044#1" />
-                <element signature="e#30050#30145#1" />
-                <element signature="e#30185#30295#0" />
-                <element signature="e#30315#30426#1" />
-                <element signature="e#30442#30544#1" />
-                <element signature="e#31085#31145#0" />
-                <element signature="e#31151#31404#0" />
-                <element signature="e#31410#31969#0" />
-                <element signature="e#31703#31741#1" />
-                <element signature="e#31975#32534#0" />
-                <element signature="e#32268#32306#1" />
-                <element signature="e#32540#33086#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/RealPathUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/ResultCollector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -211,36 +46,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
+        <entry file="file://$PROJECT_DIR$/node_modules-react-native-image-crop-picker-android-react-native-image-crop-picker~2.iml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/drawable/ic_done.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/SampleActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1857" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -252,6 +63,9 @@
       <find>statusBarColor</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -261,19 +75,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -283,61 +97,19 @@
             </path>
             <path>
               <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -373,33 +145,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32956383" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.329927" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Flutter Performance" />
-      <window_info anchor="right" id="Preview" weight="0.32956383" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33441034" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Find" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.32876712" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Flutter Performance" order="6" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.32956383" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -439,12 +212,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/ResultCollector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="525">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4141#4323#0" />
           </folding>
         </state>
       </provider>
@@ -459,162 +232,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/ResultCollector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#4141#4323#0" />
-            <element signature="e#4329#4522#0" />
-            <element signature="e#6727#6990#0" />
-            <element signature="e#6823#6949#1" />
-            <element signature="e#6884#6939#1" />
-            <element signature="e#6996#8008#0" />
-            <element signature="e#7186#7298#1" />
-            <element signature="class#7419:8000" />
-            <element signature="method#call#0;class#7419:8000" />
-            <element signature="e#7513#7780#0" />
-            <element signature="e#7802#7946#0" />
-            <element signature="e#8014#9473#0" />
-            <element signature="e#8141#8259#1" />
-            <element signature="e#8390#8502#1" />
-            <element signature="class#8623:9465" />
-            <element signature="method#call#0;class#8623:9465" />
-            <element signature="e#8734#9245#0" />
-            <element signature="e#8894#8985#1" />
-            <element signature="e#9267#9411#0" />
-            <element signature="e#9479#11268#0" />
-            <element signature="e#9747#9970#1" />
-            <element signature="e#9893#9960#1" />
-            <element signature="e#10015#11075#1" />
-            <element signature="class#10160:11042" />
-            <element signature="method#onRequestPermissionsResult#0;class#10160:11042" />
-            <element signature="e#10371#10976#1" />
-            <element signature="e#10435#10722#1" />
-            <element signature="e#10518#10696#1" />
-            <element signature="e#10752#10824#0" />
-            <element signature="e#10845#10954#0" />
-            <element signature="e#11124#11164#0" />
-            <element signature="e#11185#11262#0" />
-            <element signature="e#11274#12115#0" />
-            <element signature="e#11453#11565#1" />
-            <element signature="e#11609#11719#1" />
-            <element signature="class#11939:12107" />
-            <element signature="method#call#0;class#11939:12107" />
-            <element signature="e#12121#13756#0" />
-            <element signature="e#12183#13646#0" />
-            <element signature="e#12283#12402#1" />
-            <element signature="e#12408#12527#1" />
-            <element signature="e#12654#12729#1" />
-            <element signature="e#12735#12947#1" />
-            <element signature="e#13066#13333#1" />
-            <element signature="e#13419#13553#1" />
-            <element signature="e#13667#13749#0" />
-            <element signature="e#13762#14844#0" />
-            <element signature="e#13829#14735#0" />
-            <element signature="e#13967#14032#1" />
-            <element signature="e#14069#14134#1" />
-            <element signature="e#14140#14338#1" />
-            <element signature="e#14756#14838#0" />
-            <element signature="e#14850#15524#0" />
-            <element signature="e#15029#15141#1" />
-            <element signature="class#15348:15516" />
-            <element signature="method#call#0;class#15348:15516" />
-            <element signature="class#16088:16260" />
-            <element signature="method#call#0;class#16088:16260" />
-            <element signature="e#16274#17059#0" />
-            <element signature="e#16386#16472#0" />
-            <element signature="e#16505#16574#0" />
-            <element signature="e#16742#16886#0" />
-            <element signature="e#16809#16876#1" />
-            <element signature="e#16909#16953#0" />
-            <element signature="e#17065#17698#0" />
-            <element signature="e#17253#17377#1" />
-            <element signature="e#17383#17667#1" />
-            <element signature="e#17533#17657#1" />
-            <element signature="e#17704#18210#0" />
-            <element signature="e#17910#17984#1" />
-            <element signature="e#18082#18162#1" />
-            <element signature="e#18216#18798#0" />
-            <element signature="e#18426#18553#1" />
-            <element signature="e#18651#18726#1" />
-            <element signature="e#18804#19153#0" />
-            <element signature="e#19052#19126#1" />
-            <element signature="e#19159#21107#0" />
-            <element signature="class#19426:21093" />
-            <element signature="method#run#0;class#19426:21093" />
-            <element signature="class#19601:20743" />
-            <element signature="method#invoke#0;class#19601:20743" />
-            <element signature="e#19791#20570#0" />
-            <element signature="e#20591#20703#0" />
-            <element signature="class#20749:21066" />
-            <element signature="method#invoke#0;class#20749:21066" />
-            <element signature="e#21113#21660#0" />
-            <element signature="e#21299#21377#1" />
-            <element signature="e#21383#21632#1" />
-            <element signature="e#21411#21530#1" />
-            <element signature="e#21536#21622#1" />
-            <element signature="e#21666#22190#0" />
-            <element signature="e#22089#22159#1" />
-            <element signature="e#22196#23761#0" />
-            <element signature="e#22407#22481#1" />
-            <element signature="e#22553#22646#0" />
-            <element signature="e#23385#23479#1" />
-            <element signature="e#23506#23732#1" />
-            <element signature="e#23524#23647#0" />
-            <element signature="e#23669#23722#0" />
-            <element signature="e#23767#24702#0" />
-            <element signature="e#24203#24540#1" />
-            <element signature="e#24217#24448#0" />
-            <element signature="e#24546#24696#1" />
-            <element signature="e#24708#26126#0" />
-            <element signature="e#25265#25334#1" />
-            <element signature="e#25370#25708#1" />
-            <element signature="e#25750#25806#1" />
-            <element signature="e#26027#26088#1" />
-            <element signature="e#26132#27913#0" />
-            <element signature="e#26300#26402#1" />
-            <element signature="e#26446#27907#1" />
-            <element signature="e#26474#27271#1" />
-            <element signature="e#26553#27124#0" />
-            <element signature="e#26644#26800#1" />
-            <element signature="e#26806#27106#1" />
-            <element signature="e#26961#27084#1" />
-            <element signature="e#27146#27256#0" />
-            <element signature="e#27277#27897#1" />
-            <element signature="e#27355#27504#1" />
-            <element signature="e#27536#27605#1" />
-            <element signature="e#27611#27883#1" />
-            <element signature="e#27637#27725#0" />
-            <element signature="e#27747#27865#0" />
-            <element signature="e#29250#30550#0" />
-            <element signature="e#29389#30436#1" />
-            <element signature="e#29478#30309#1" />
-            <element signature="e#29500#30163#0" />
-            <element signature="e#29551#29685#1" />
-            <element signature="e#29811#30044#1" />
-            <element signature="e#30050#30145#1" />
-            <element signature="e#30185#30295#0" />
-            <element signature="e#30315#30426#1" />
-            <element signature="e#30442#30544#1" />
-            <element signature="e#31085#31145#0" />
-            <element signature="e#31151#31404#0" />
-            <element signature="e#31410#31969#0" />
-            <element signature="e#31703#31741#1" />
-            <element signature="e#31975#32534#0" />
-            <element signature="e#32268#32306#1" />
-            <element signature="e#32540#33086#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1857" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -624,7 +250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/reactnative/ivpusic/imagepicker/SampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
+        <state relative-caret-position="30">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -632,15 +258,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ucrop/src/main/res/layout/ucrop_activity_photobox.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ucrop/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules-react-native-image-crop-picker-android-react-native-image-crop-picker~2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
