@@ -20,7 +20,7 @@ If you are using react-native >= 0.60 use react-native-image-crop-picker version
 
 ##INSTALLATION
 
-yarn add react-native-image-crop-picker
+yarn add rn-image-crop-picker
 
 ## Usage
 
